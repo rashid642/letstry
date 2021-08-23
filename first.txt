@@ -1,0 +1,5 @@
+hello its rashid, learning VCS
+i want this to commit
+this is one more text added
+one more.
+this is changes now
